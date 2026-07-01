@@ -47,12 +47,14 @@ Passionate about building AI-powered applications, modern web solutions, and int
       <p><strong>B.Tech Artificial Intelligence & Data Science</strong><br />
       Knowledge Institute of Technology,<br />
       Tamil Nadu<br />
-      Expected: 2027 | CGPA: 7.90</p>
+      </p>
     </td>
     <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>💼 Internship</h3>
-      <p><strong>Full Stack Development Intern (3 Months)</strong><br />
-      L&T EduTech</p>
+      <p><strong>Full Stack Development Intern  (3 Months)</strong><br />
+      L&T EduTech
+      Punchbiz
+      </p>
     </td>
     <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🎯 Interests</h3>
@@ -126,6 +128,35 @@ Passionate about building AI-powered applications, modern web solutions, and int
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
+</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sabitha1626&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabitha1626&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Top Languages" />
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <p align="center" style="font-size: 14px;">
+        ✨ <br />
+        <strong>"Code with curiosity.<br />Learn with consistency.<br />Build with purpose."</strong> <br />
+        ✨
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 🔍 Featured Projects
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
@@ -165,33 +196,6 @@ Passionate about building AI-powered applications, modern web solutions, and int
 
 ---
 
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
-</p>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sabitha1626&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabitha1626&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Top Languages" />
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <p align="center" style="font-size: 14px;">
-        ✨ <br />
-        <strong>"Code with curiosity.<br />Learn with consistency.<br />Build with purpose."</strong> <br />
-        ✨
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
