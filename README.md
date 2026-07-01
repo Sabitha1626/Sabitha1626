@@ -126,25 +126,72 @@ Passionate about building AI-powered applications, modern web solutions, and int
 
 ---
 
+## 🔍 Featured Projects
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <thead>
+    <tr bgcolor="#161b22">
+      <th width="30%" align="left"><strong>Project</strong></th>
+      <th width="70%" align="left"><strong>Description</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/Sabitha1626/SnapspendAI"><strong>SnapspendAI</strong></a>
+      </td>
+      <td valign="top">
+        An intelligent full stack web application designed for smart expense tracking. Uses AI to analyze financial inputs and provide clean dashboard metrics for efficient budget management.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/Sabitha1626/Ai_farm_demo"><strong>Ai_farm_demo</strong></a>
+      </td>
+      <td valign="top">
+        A precision digital management system developed to assist agricultural tracking workflows. Eliminates data gaps from manual management by providing structured data visualizations and life-cycle timelines.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/Sabitha1626/TestNG_DIV"><strong>TestNG_DIV</strong></a>
+      </td>
+      <td valign="top">
+        A comprehensive software test automation framework engineered using Java, Selenium, and TestNG. Features robust test plan lifecycles, structured verification suites, and detailed automated reporting to optimize CI/CD pipeline quality assurance.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
-<table width="100%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
+</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sabitha1626&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's GitHub Stats" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" width="100%" alt="Contribution Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabitha1626&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Top Languages" />
     </td>
     <td width="50%" valign="middle" align="center">
-      <p align="center">
-        ✨ <em>"Code with curiosity. Learn with consistency. Build with purpose."</em> ✨
+      <p align="center" style="font-size: 14px;">
+        ✨ <br />
+        <strong>"Code with curiosity.<br />Learn with consistency.<br />Build with purpose."</strong> <br />
+        ✨
       </p>
     </td>
   </tr>
 </table>
+
+---
