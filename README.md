@@ -6,10 +6,10 @@
 </p>
 
 <p align="left">
-  <a href="https://leetcode.com/u/Sabitha_16"><img src="https://img.shields.io/badge/LeetCode-Sabitha__16-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-N%2FA-brightgreen?style=flat-square&logo=hackerrank" alt="HackerRank" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-sabitha--dr-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat-square" alt="Resume" /></a>
+  <a href="https://leetcode.com/u/Sabitha_16/"><img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode"/></a>
+  <a href="mailto:sabithabtech16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/sabithadr/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://portfolio-demo-five-brown.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/></a>
 </p>
 
 ---
