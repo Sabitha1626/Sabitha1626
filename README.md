@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabitha DR</h1>
+<h1 align="center">Hi👋, I'm Sabitha DR</h1>
 
 <h3 align="center">
 🚀 Aspiring Full Stack Developer | AI & Data Science Enthusiast
