@@ -19,7 +19,7 @@ Passionate about building AI-powered applications, modern web solutions, and int
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sabithadr/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -27,12 +27,12 @@ Passionate about building AI-powered applications, modern web solutions, and int
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://portfolio-demo-five-brown.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/Sabitha_16/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
