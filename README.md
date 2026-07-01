@@ -134,29 +134,11 @@ Passionate about building AI-powered applications, modern web solutions, and int
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sabitha1626&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabitha1626&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Top Languages" />
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <p align="center" style="font-size: 14px;">
-        ✨ <br />
-        <strong>"Code with curiosity.<br />Learn with consistency.<br />Build with purpose."</strong> <br />
-        ✨
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
+</p>
 
+---
 ## 🔍 Featured Projects
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
