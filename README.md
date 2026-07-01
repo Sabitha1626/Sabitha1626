@@ -10,7 +10,7 @@ Passionate about building AI-powered applications, modern web solutions, and int
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Python+Developer;React+%7C+Flask+%7C+MongoDB;Power+BI+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
