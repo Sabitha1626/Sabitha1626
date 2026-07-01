@@ -78,7 +78,7 @@
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🧪 Tools & IDEs</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,figma" alt="Tools & IDEs Set 1" />
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,github,figma" alt="Tools & IDEs Set 1" />
       </p>
     </td>
   </tr>
