@@ -103,7 +103,7 @@ Passionate about building AI-powered applications, modern web solutions, and int
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🧪 Automation Testing & IDEs</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,figma,eclipse,jenkins,maven,selenium" alt="IDEs and Automation" />
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,eclipse,jenkins,maven,selenium" alt="IDEs and Automation" />
       </p>
     </td>
   </tr>
@@ -113,11 +113,11 @@ Passionate about building AI-powered applications, modern web solutions, and int
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabitha1626&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="Sabitha's Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabitha1626&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sabitha's Contribution Graph" />
 </p>
 
 ---
