@@ -74,12 +74,12 @@ Passionate about building AI-powered applications, modern web solutions, and int
 ## 🛠️ Tech Stack & Skills
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <!-- Row 1: Languages & Web Development -->
+  <!-- Tech Stack Row 1 -->
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>💻 Languages</h3>
+      <h3>💻 Languages & Databases</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=py,java,c,js" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=py,java,c,js,mongodb,mysql" alt="Languages and Databases" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
@@ -89,8 +89,7 @@ Passionate about building AI-powered applications, modern web solutions, and int
       </p>
     </td>
   </tr>
-
-  <!-- Row 2: ML/Data Science & Automation Testing -->
+  <!-- Tech Stack Row 2 -->
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🤖 ML / Data Science Tools</h3>
@@ -102,30 +101,13 @@ Passionate about building AI-powered applications, modern web solutions, and int
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>🧪 Tools & IDEs</h3>
+      <h3>🧪 Automation Testing & IDEs</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,github,figma" alt="Tools & IDEs Set 1" />
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 3: Databases & Automation / QA -->
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>🗄️ Databases</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>⚙️ Automation Testing & DevOps</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=eclipse,jenkins,maven,selenium" alt="Automation and Frameworks" />
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,figma,eclipse,jenkins,maven,selenium" alt="IDEs and Automation" />
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats & Activity
