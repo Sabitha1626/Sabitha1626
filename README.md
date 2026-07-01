@@ -24,7 +24,7 @@ Passionate about building AI-powered applications, modern web solutions, and int
 </a>
 
 <a href="mailto:sabithabtech16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://portfolio-demo-five-brown.vercel.app/">
