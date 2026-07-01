@@ -46,13 +46,13 @@ Passionate about building AI-powered applications, modern web solutions, and int
       <h3>🎓 Education</h3>
       <p><strong>B.Tech Artificial Intelligence & Data Science</strong><br />
       Knowledge Institute of Technology,<br />
-      Tamil Nadu<br />
+      <br />
       </p>
     </td>
     <td width="33.3%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>💼 Internship</h3>
       <p><strong>Full Stack Development Intern  (3 Months)</strong><br />
-      L&T EduTech
+      L&T EduTech <br />
       Punchbiz
       </p>
     </td>
