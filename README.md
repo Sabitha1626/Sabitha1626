@@ -47,6 +47,8 @@
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
@@ -55,69 +57,53 @@
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>💻 Languages</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=py,java,c,js" alt="Languages" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🌐 Web Development</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,flask" alt="Web Development" />
       </p>
     </td>
   </tr>
 
-  <!-- Row 2: ML/Data Science & Tools/IDEs -->
+  <!-- Row 2: ML/Data Science & Automation Testing -->
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🤖 ML / Data Science Tools</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="40" />
+        <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" height="40" />
+        <img src="https://skillicons.dev/icons?i=scikit,powerbi" alt="ML & Data Science" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>🧪 Automation Testing & IDEs</h3>
+      <h3>🧪 Tools & IDEs</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
-        <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=TestNG&logoColor=white" alt="TestNG" />
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,figma" alt="Tools & IDEs Set 1" />
       </p>
     </td>
   </tr>
 
-  <!-- Row 3: Databases & Version Control -->
+  <!-- Row 3: Databases & Automation / QA -->
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
       <h3>🗄️ Databases</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
-      <h3>⚙️ DevOps & Others</h3>
+      <h3>⚙️ Automation Testing & DevOps</h3>
       <p align="left">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://skillicons.dev/icons?i=eclipse,jenkins,maven,selenium" alt="Automation and Frameworks" />
       </p>
     </td>
   </tr>
 </table>
 
----
 ---
 
 ## 📊 GitHub Stats & Activity
