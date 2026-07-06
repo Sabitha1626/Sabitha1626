@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-Currently pursuing a 3-Month Full Stack Development Internship at L&T EduTech.
-Passionate about building AI-powered applications, modern web solutions, and intelligent dashboards.
+Passionate about Full Stack Development, building AI-powered applications, modern web solutions, and intelligent dashboards.
 </p>
 
 <p align="center">
